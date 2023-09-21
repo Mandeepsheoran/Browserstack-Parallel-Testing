@@ -8,3 +8,8 @@ intercept the test and start its execution over Browserstack cloud irrespective 
 Private network:
 If application is accessible through private network then we have to use browserstack local. Browserstack local need to be true in browserstack.yaml file in order to access 
 these type of application.
+
+Connection Setup:
+
+![image](https://github.com/Mandeepsheoran/Browserstack-Parallel-Testing/assets/70449523/bee57a43-1d51-44ae-bc57-3bf70b02d9e0)
+
